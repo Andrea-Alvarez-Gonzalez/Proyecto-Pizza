@@ -49,7 +49,7 @@ class Pizza:
             if not masa_valida:
                 print(f"Tipo de masa '{self.masa}' no es válido.")
 
-# 
+''' 
 if __name__ == "__main__":
     mi_pizza = Pizza()
     mi_pizza.realizar_pedido()
@@ -58,3 +58,4 @@ if __name__ == "__main__":
         print("¡Pedido confirmado!")
     else:
         print("Pedido rechazado. Ingredientes no válidos.")
+'''
